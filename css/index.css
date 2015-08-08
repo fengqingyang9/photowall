@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#ul1 {
+    width: 660px;
+    position: relative;
+    margin: 10px auto;
+}
+
+li {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    float: left;
+    list-style: none;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+div{
+    position: absolute;
+    right: 100px;
+    top:100px;
+}
+input {
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+}
